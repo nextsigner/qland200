@@ -50,7 +50,7 @@ Item {
         }
         Image{
             width: app.fs*10
-            source:"../../h/qt-icon.png"
+            source:"../../../h/qt-icon.png"
             fillMode: Image.PreserveAspectFit
             anchors.horizontalCenter: parent.horizontalCenter
         }
@@ -182,7 +182,7 @@ Item {
         Behavior on opacity{NumberAnimation{duration:500}}
         Image{
             width: app.fs*10
-            source:"../../h/qml.png"
+            source:"../../../h/qml.png"
             fillMode: Image.PreserveAspectFit
             anchors.horizontalCenter: parent.horizontalCenter
         }
@@ -210,7 +210,7 @@ Item {
         }
         Image{
             width: app.fs*10
-            source:"../../h/qt-icon.png"
+            source:"../../../h/qt-icon.png"
             fillMode: Image.PreserveAspectFit
             anchors.horizontalCenter: parent.horizontalCenter
         }
@@ -281,7 +281,7 @@ Item {
         Image{
             id:imgApp1
             width: app.fs*10
-            source:"../../h/touch1.png"
+            source:"../../../h/touch1.png"
             fillMode: Image.PreserveAspectFit
             anchors.horizontalCenter: parent.horizontalCenter
             visible:false
