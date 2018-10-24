@@ -676,7 +676,7 @@ El por estos motivos y por muchos màs que el slogan de Qt antes era -Menos Còd
         xT.at=at.replace(/\n/g, ' ')
 
         var h1= 'La palabra o tèrmino <b>META</b> significa que QML es un lenguaje que està màs allà de preexistente, algo que apareciò luego, algo posterior, superador o de otra forma distinta a lo anterior'
-        xa.addBa('¿Que significa META?', h1,'../h/sobre_meta.m4a')
+        xa.addBa('¿Que significa META?', h1,'./h/sobre_meta.m4a')
         xa.addBa('Ir al siguiente','','1')
     }
 }
